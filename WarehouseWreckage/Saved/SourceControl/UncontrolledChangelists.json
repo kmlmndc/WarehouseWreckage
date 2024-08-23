@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/BP_projectile.uasset",
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/Main.umap",
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Data/UnReal/2/WarehouseWreckage/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
